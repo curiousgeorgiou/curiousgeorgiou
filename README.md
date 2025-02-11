@@ -1,6 +1,8 @@
 ## About Me
 
-I am a freelance consultant in risk management, looking to make the transition into data science. I am currently learning Python, SQL and mathematics to that end.
+I am a freelance consultant in risk management, looking to make the transition into data science. 
+
+I am currently learning Python, SQL and mathematics to that end.
 
 - 🔭 **Current Focus**: 100 Days of Python ((Angela Yu course](https://www.udemy.com/course/100-days-of-code))
 - 🌱 **Currently Learning:** Python, SQL
